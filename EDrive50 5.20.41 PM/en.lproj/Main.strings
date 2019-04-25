@@ -1,0 +1,984 @@
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "05j-fI-lgg"; */
+"05j-fI-lgg.text" = "Email";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "05t-U5-Gx3"; */
+"05t-U5-Gx3.text" = "Name";
+
+/* Class = "UINavigationItem"; title = "Accessibility"; ObjectID = "07T-ei-JDC"; */
+"07T-ei-JDC.title" = "Accessibility";
+
+/* Class = "UIButton"; normalTitle = "Give Feedback"; ObjectID = "0LF-Qk-Jp0"; */
+"0LF-Qk-Jp0.normalTitle" = "Give Feedback";
+
+/* Class = "UILabel"; text = "Pickup Address"; ObjectID = "0as-k4-ted"; */
+"0as-k4-ted.text" = "Pickup Address";
+
+/* Class = "UIButton"; normalTitle = "Schedule Ride"; ObjectID = "0c8-NR-1AL"; */
+"0c8-NR-1AL.normalTitle" = "Schedule Ride";
+
+/* Class = "UILabel"; text = "Expiry Date (MM/YY)"; ObjectID = "0tp-qL-B2F"; */
+"0tp-qL-B2F.text" = "Expiry Date (MM/YY)";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "0zE-Jx-8ge"; */
+"0zE-Jx-8ge.title" = "Login";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "10i-OB-MeM"; */
+"10i-OB-MeM.text" = "Welcome";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "11M-sl-NcF"; */
+"11M-sl-NcF.text" = "Destination";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "15p-gU-cpq"; */
+"15p-gU-cpq.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "John Katrya"; ObjectID = "1Az-Zb-S8s"; */
+"1Az-Zb-S8s.text" = "John Katrya";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "1bQ-q6-ax9"; */
+"1bQ-q6-ax9.text" = "Date";
+
+/* Class = "UILabel"; text = "(Your Overall Rating)"; ObjectID = "1rP-dm-72u"; */
+"1rP-dm-72u.text" = "(Your Overall Rating)";
+
+/* Class = "UILabel"; text = "Current Password"; ObjectID = "20S-Hi-tJT"; */
+"20S-Hi-tJT.text" = "Current Password";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "210-hG-4iF"; */
+"210-hG-4iF.normalTitle" = "Finish";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "2EW-do-k1G"; */
+"2EW-do-k1G.text" = "Change Password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2TS-eB-rbY"; */
+"2TS-eB-rbY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "mafeoluwakemi@gmail.com"; ObjectID = "2sP-6q-Gbx"; */
+"2sP-6q-Gbx.text" = "mafeoluwakemi@gmail.com";
+
+/* Class = "UILabel"; text = "VIN (Vehicle Identification Number)"; ObjectID = "2x1-SV-i66"; */
+"2x1-SV-i66.text" = "VIN (Vehicle Identification Number)";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "38z-Tl-k1u"; */
+"38z-Tl-k1u.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Waiting for Response"; ObjectID = "3Fn-9E-69A"; */
+"3Fn-9E-69A.text" = "Waiting for Response";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "3SD-nW-wft"; */
+"3SD-nW-wft.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Pickup Time"; ObjectID = "3TY-f5-8Ul"; */
+"3TY-f5-8Ul.text" = "Pickup Time";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "3XK-qB-uki"; */
+"3XK-qB-uki.title" = "Account";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3bS-in-MIs"; */
+"3bS-in-MIs.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Account"; ObjectID = "4Cv-jU-P6B"; */
+"4Cv-jU-P6B.title" = "Account";
+
+/* Class = "UIButton"; normalTitle = "Add Payment Methods"; ObjectID = "4Mn-QY-6NL"; */
+"4Mn-QY-6NL.normalTitle" = "Add Payment Methods";
+
+/* Class = "UIViewController"; title = "RegisterRiderOptionsViewController"; ObjectID = "4fd-sd-KuX"; */
+"4fd-sd-KuX.title" = "RegisterRiderOptionsViewController";
+
+/* Class = "UILabel"; text = "Make"; ObjectID = "4sB-vi-Yia"; */
+"4sB-vi-Yia.text" = "Make";
+
+/* Class = "UILabel"; text = "Current Email"; ObjectID = "5AK-6j-gAC"; */
+"5AK-6j-gAC.text" = "Current Email";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "5CZ-7b-riJ"; */
+"5CZ-7b-riJ.text" = "Destination";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5EK-8S-Qzx"; */
+"5EK-8S-Qzx.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "RiderAccountViewController"; ObjectID = "5F9-pn-3El"; */
+"5F9-pn-3El.title" = "RiderAccountViewController";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "5Fg-Pt-VQr"; */
+"5Fg-Pt-VQr.text" = "Destination";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "5OT-Aa-V6N"; */
+"5OT-Aa-V6N.title" = "Account";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "5Xl-9v-p5v"; */
+"5Xl-9v-p5v.text" = "Time";
+
+/* Class = "UILabel"; text = "Ride History"; ObjectID = "5ew-Cb-4cw"; */
+"5ew-Cb-4cw.text" = "Ride History";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "5k3-kb-E2C"; */
+"5k3-kb-E2C.text" = "Password";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "6g8-Cc-V7l"; */
+"6g8-Cc-V7l.title" = "Account";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "6k5-YK-rhm"; */
+"6k5-YK-rhm.title" = "Account";
+
+/* Class = "UILabel"; text = "Physical Assistance"; ObjectID = "71t-gS-AKN"; */
+"71t-gS-AKN.text" = "Physical Assistance";
+
+/* Class = "UINavigationItem"; title = "Account"; ObjectID = "78H-Eg-zsm"; */
+"78H-Eg-zsm.title" = "Account";
+
+/* Class = "UIButton"; accessibilityHint = "Tell us about yourself"; ObjectID = "79o-f3-mgu"; */
+"79o-f3-mgu.accessibilityHint" = "Tell us about yourself";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "79o-f3-mgu"; */
+"79o-f3-mgu.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "7DK-Zk-xdv"; */
+"7DK-Zk-xdv.normalTitle" = "Save";
+
+/* Class = "UIViewController"; title = "VehicleRegistrationViewController"; ObjectID = "7Ke-SJ-0lm"; */
+"7Ke-SJ-0lm.title" = "VehicleRegistrationViewController";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "7QU-f7-dKZ"; */
+"7QU-f7-dKZ.text" = "Other";
+
+/* Class = "UIViewController"; title = "RiderRegisterPayOptionsViewController"; ObjectID = "7SZ-Hd-jyo"; */
+"7SZ-Hd-jyo.title" = "RiderRegisterPayOptionsViewController";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7U1-Br-yyP"; */
+"7U1-Br-yyP.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "edrive50 version 1.0 was created by Creative Minds mobile app development team at Algonquin College."; ObjectID = "7sp-pH-kcb"; */
+"7sp-pH-kcb.text" = "edrive50 version 1.0 was created by Creative Minds mobile app development team at Algonquin College.";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "8as-l0-PiM"; */
+"8as-l0-PiM.normalTitle" = "Save";
+
+/* Class = "UINavigationItem"; title = "Accessibility"; ObjectID = "8pX-hM-td2"; */
+"8pX-hM-td2.title" = "Accessibility";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "9CF-5m-eeS"; */
+"9CF-5m-eeS.text" = "Other";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "9PL-c8-URB"; */
+"9PL-c8-URB.normalTitle" = "Reject";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "9UD-2D-eVx"; */
+"9UD-2D-eVx.text" = "Name";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "9ve-PF-xpg"; */
+"9ve-PF-xpg.title" = "Account";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AUG-Du-SUU"; */
+"AUG-Du-SUU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Accessibility Options"; ObjectID = "AYC-qw-AoY"; */
+"AYC-qw-AoY.text" = "Accessibility Options";
+
+/* Class = "UILabel"; text = "License Plate #"; ObjectID = "AdS-LD-7al"; */
+"AdS-LD-7al.text" = "License Plate #";
+
+/* Class = "UILabel"; text = "Colour"; ObjectID = "AkO-zb-swa"; */
+"AkO-zb-swa.text" = "Colour";
+
+/* Class = "UILabel"; text = "Profile Picture (Optional)"; ObjectID = "AsE-1J-tgI"; */
+"AsE-1J-tgI.text" = "Profile Picture (Optional)";
+
+/* Class = "UILabel"; text = "Driver"; ObjectID = "BMa-Ma-0fZ"; */
+"BMa-Ma-0fZ.text" = "Driver";
+
+/* Class = "UIViewController"; title = "LoginViewController"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "LoginViewController";
+
+/* Class = "UILabel"; text = "[]"; ObjectID = "BgO-7w-0sJ"; */
+"BgO-7w-0sJ.text" = "[]";
+
+/* Class = "UIViewController"; title = "DriverSettingsViewController"; ObjectID = "BuH-jY-exf"; */
+"BuH-jY-exf.title" = "DriverSettingsViewController";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "BvT-yx-nON"; */
+"BvT-yx-nON.title" = "Profile";
+
+/* Class = "UILabel"; text = "Big Trunk"; ObjectID = "C1V-Dl-a7X"; */
+"C1V-Dl-a7X.text" = "Big Trunk";
+
+/* Class = "UIViewController"; title = "RideSchedulingViewController"; ObjectID = "C8q-FP-Gs9"; */
+"C8q-FP-Gs9.title" = "RideSchedulingViewController";
+
+/* Class = "UILabel"; text = "(Optional)"; ObjectID = "CB8-pa-UMe"; */
+"CB8-pa-UMe.text" = "(Optional)";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "CEs-5p-G5z"; */
+"CEs-5p-G5z.text" = "Date";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "CpG-Fw-H73"; */
+"CpG-Fw-H73.normalTitle" = "Log Out";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "CzW-KZ-4Yf"; */
+"CzW-KZ-4Yf.text" = "Other";
+
+/* Class = "UITextView"; accessibilityHint = "Give your fee"; ObjectID = "D2r-kM-rBb"; */
+"D2r-kM-rBb.accessibilityHint" = "Give your fee";
+
+/* Class = "UITextView"; text = "Hello Mr You."; ObjectID = "D2r-kM-rBb"; */
+"D2r-kM-rBb.text" = "Hello Mr You.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Dgm-lf-EBr"; */
+"Dgm-lf-EBr.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "E5n-Lh-UX7"; */
+"E5n-Lh-UX7.title" = "Details";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "E8K-xB-rt5"; */
+"E8K-xB-rt5.title" = "Profile";
+
+/* Class = "UITextView"; text = "Name"; ObjectID = "EWJ-pN-S3g"; */
+"EWJ-pN-S3g.text" = "Name";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "Ed6-sB-ySb"; */
+"Ed6-sB-ySb.text" = "From";
+
+/* Class = "UILabel"; text = "Your Feedback"; ObjectID = "Eek-YO-vM9"; */
+"Eek-YO-vM9.text" = "Your Feedback";
+
+/* Class = "UILabel"; text = "Physical Assistance"; ObjectID = "EgI-9C-hHl"; */
+"EgI-9C-hHl.text" = "Physical Assistance";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "EoO-ZX-tJ1"; */
+"EoO-ZX-tJ1.text" = "New Password";
+
+/* Class = "UIButton"; normalTitle = "Skip Tutorial"; ObjectID = "Es6-hD-Lvy"; */
+"Es6-hD-Lvy.normalTitle" = "Skip Tutorial";
+
+/* Class = "UILabel"; text = "Year"; ObjectID = "FGf-Gn-1Q2"; */
+"FGf-Gn-1Q2.text" = "Year";
+
+/* Class = "UILabel"; text = "Vehicle Registration"; ObjectID = "FX0-QK-lXu"; */
+"FX0-QK-lXu.text" = "Vehicle Registration";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "Fgk-Gu-0a9"; */
+"Fgk-Gu-0a9.text" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FuS-fN-3jS"; */
+"FuS-fN-3jS.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "GBr-6q-jsW"; */
+"GBr-6q-jsW.title" = "Account";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GLw-hU-5ub"; */
+"GLw-hU-5ub.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "GXY-zp-e67"; */
+"GXY-zp-e67.title" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GcS-sX-pYi"; */
+"GcS-sX-pYi.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Request"; ObjectID = "Gds-1G-wae"; */
+"Gds-1G-wae.title" = "Request";
+
+/* Class = "UILabel"; text = "Big Trunk"; ObjectID = "GlD-Fa-uZc"; */
+"GlD-Fa-uZc.text" = "Big Trunk";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "GvO-k3-hh2"; */
+"GvO-k3-hh2.text" = "Email Address";
+
+/* Class = "UILabel"; text = "Vehicle Details"; ObjectID = "H3j-75-xPX"; */
+"H3j-75-xPX.text" = "Vehicle Details";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "H8p-ia-4V0"; */
+"H8p-ia-4V0.text" = "Change Password";
+
+/* Class = "UINavigationItem"; title = "Accessibility"; ObjectID = "HMD-cm-Go2"; */
+"HMD-cm-Go2.title" = "Accessibility";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "HW9-CF-QS4"; */
+"HW9-CF-QS4.title" = "Details";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HgK-Ea-zrQ"; */
+"HgK-Ea-zrQ.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Skip & Finish"; ObjectID = "I2w-ib-78m"; */
+"I2w-ib-78m.normalTitle" = "Skip & Finish";
+
+/* Class = "UILabel"; text = "Year"; ObjectID = "ISS-Yb-b61"; */
+"ISS-Yb-b61.text" = "Year";
+
+/* Class = "UILabel"; text = "Wheelchair Accessible"; ObjectID = "Ify-3F-ZJd"; */
+"Ify-3F-ZJd.text" = "Wheelchair Accessible";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Iot-7I-h49"; */
+"Iot-7I-h49.normalTitle" = "Save";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "J2C-ib-FBq"; */
+"J2C-ib-FBq.title" = "Details";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "JD9-Gy-zbU"; */
+"JD9-Gy-zbU.normalTitle" = "Next";
+
+/* Class = "UINavigationItem"; title = "Booking"; ObjectID = "JGE-cb-fhd"; */
+"JGE-cb-fhd.title" = "Booking";
+
+/* Class = "UILabel"; text = "Big Trunk"; ObjectID = "JGZ-DS-OLH"; */
+"JGZ-DS-OLH.text" = "Big Trunk";
+
+/* Class = "UILabel"; text = "(Required)"; ObjectID = "JIh-We-1hW"; */
+"JIh-We-1hW.text" = "(Required)";
+
+/* Class = "UIViewController"; title = "DriverProfileViewController"; ObjectID = "JRO-wh-qc2"; */
+"JRO-wh-qc2.title" = "DriverProfileViewController";
+
+/* Class = "UILabel"; text = "Card Holder's Name"; ObjectID = "JhK-X2-gLs"; */
+"JhK-X2-gLs.text" = "Card Holder's Name";
+
+/* Class = "UITextView"; text = "Name"; ObjectID = "K1E-Iy-3tB"; */
+"K1E-Iy-3tB.text" = "Name";
+
+/* Class = "UILabel"; text = "mafeoluwakemi@gmail.com"; ObjectID = "K2K-Ve-dBp"; */
+"K2K-Ve-dBp.text" = "mafeoluwakemi@gmail.com";
+
+/* Class = "UILabel"; text = "Pickup Address"; ObjectID = "KYX-LP-P2u"; */
+"KYX-LP-P2u.text" = "Pickup Address";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "Kam-TC-8Lr"; */
+"Kam-TC-8Lr.text" = "Destination";
+
+/* Class = "UILabel"; text = "Pickup Time:"; ObjectID = "L3R-tl-zwg"; */
+"L3R-tl-zwg.text" = "Pickup Time:";
+
+/* Class = "UILabel"; text = "Accessibility Options"; ObjectID = "LBo-jh-mKT"; */
+"LBo-jh-mKT.text" = "Accessibility Options";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LTi-c2-J0H"; */
+"LTi-c2-J0H.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "Lfy-R7-KU7"; */
+"Lfy-R7-KU7.text" = "Phone Number";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "Lgv-yq-e5p"; */
+"Lgv-yq-e5p.text" = "Email Address";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "Lh5-1H-By1"; */
+"Lh5-1H-By1.text" = "Other";
+
+/* Class = "UILabel"; text = "How was your ride today?"; ObjectID = "M69-ek-nEv"; */
+"M69-ek-nEv.text" = "How was your ride today?";
+
+/* Class = "UINavigationItem"; title = "Account"; ObjectID = "MLz-vi-mlO"; */
+"MLz-vi-mlO.title" = "Account";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "MdV-Kh-TR6"; */
+"MdV-Kh-TR6.title" = "Details";
+
+/* Class = "UINavigationItem"; title = "Search"; ObjectID = "MeR-0Z-MNT"; */
+"MeR-0Z-MNT.title" = "Search";
+
+/* Class = "UILabel"; text = "Pickup Address"; ObjectID = "MhD-Ys-vId"; */
+"MhD-Ys-vId.text" = "Pickup Address";
+
+/* Class = "UILabel"; text = "Model"; ObjectID = "N04-7i-S7A"; */
+"N04-7i-S7A.text" = "Model";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "N31-Qa-Sri"; */
+"N31-Qa-Sri.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "N8j-yF-svU"; */
+"N8j-yF-svU.text" = "Phone Number";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "NXZ-Gx-e4c"; */
+"NXZ-Gx-e4c.text" = "Password";
+
+/* Class = "UILabel"; text = "New Email"; ObjectID = "NwF-cq-idm"; */
+"NwF-cq-idm.text" = "New Email";
+
+/* Class = "UINavigationItem"; title = "Drive"; ObjectID = "O9I-20-52H"; */
+"O9I-20-52H.title" = "Drive";
+
+/* Class = "UINavigationItem"; title = "Schedule"; ObjectID = "OAB-Ti-byl"; */
+"OAB-Ti-byl.title" = "Schedule";
+
+/* Class = "UILabel"; text = "Special Requests"; ObjectID = "ORi-21-8UL"; */
+"ORi-21-8UL.text" = "Special Requests";
+
+/* Class = "UIViewController"; title = "DriverAccountsViewController"; ObjectID = "OdL-g4-PCW"; */
+"OdL-g4-PCW.title" = "DriverAccountsViewController";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "Olw-Qg-I0w"; */
+"Olw-Qg-I0w.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "Op6-kL-vaB"; */
+"Op6-kL-vaB.text" = "To";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "PHp-iK-TpS"; */
+"PHp-iK-TpS.text" = "Confirm Password";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "PVr-Ra-vzX"; */
+"PVr-Ra-vzX.normalTitle" = "Log In";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "PYB-wW-gLd"; */
+"PYB-wW-gLd.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PiV-g9-2vD"; */
+"PiV-g9-2vD.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Py8-az-r3O"; */
+"Py8-az-r3O.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Confirm New Email"; ObjectID = "Q26-oc-Mpb"; */
+"Q26-oc-Mpb.text" = "Confirm New Email";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QHz-XF-CCA"; */
+"QHz-XF-CCA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Special Requests"; ObjectID = "QRx-Ha-9Xj"; */
+"QRx-Ha-9Xj.text" = "Special Requests";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "QUi-xp-Flx"; */
+"QUi-xp-Flx.text" = "Destination";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Qai-ab-B5V"; */
+"Qai-ab-B5V.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Qcu-We-ePE"; */
+"Qcu-We-ePE.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Register as a Driver"; ObjectID = "Qfe-KW-LLi"; */
+"Qfe-KW-LLi.normalTitle" = "Register as a Driver";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "Qh4-2M-Zxs"; */
+"Qh4-2M-Zxs.title" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "QhN-2Y-XYY"; */
+"QhN-2Y-XYY.normalTitle" = "Finish";
+
+/* Class = "UILabel"; text = "Any Suggestions?"; ObjectID = "Qpc-nI-glV"; */
+"Qpc-nI-glV.text" = "Any Suggestions?";
+
+/* Class = "UILabel"; text = "Physical Assistance"; ObjectID = "Qxm-0q-J7M"; */
+"Qxm-0q-J7M.text" = "Physical Assistance";
+
+/* Class = "UILabel"; text = "Distance Travelled"; ObjectID = "R7w-uP-FjC"; */
+"R7w-uP-FjC.text" = "Distance Travelled";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "RFP-Ph-1cj"; */
+"RFP-Ph-1cj.text" = "Contact Us";
+
+/* Class = "UILabel"; text = "Physical Assistance"; ObjectID = "RHg-89-P5k"; */
+"RHg-89-P5k.text" = "Physical Assistance";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "Rbf-qV-W1U"; */
+"Rbf-qV-W1U.title" = "Account";
+
+/* Class = "UILabel"; text = "Keep me signed in"; ObjectID = "Rdj-8W-b42"; */
+"Rdj-8W-b42.text" = "Keep me signed in";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "Rf2-JE-heH"; */
+"Rf2-JE-heH.title" = "Account";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "Rf3-fE-diO"; */
+"Rf3-fE-diO.text" = "Destination";
+
+/* Class = "UILabel"; text = "Info@edrive50.com"; ObjectID = "Rir-oF-KU4"; */
+"Rir-oF-KU4.text" = "Info@edrive50.com";
+
+/* Class = "UINavigationItem"; title = "Finalize"; ObjectID = "Rkm-Js-0NP"; */
+"Rkm-Js-0NP.title" = "Finalize";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Rlg-pf-ngR"; */
+"Rlg-pf-ngR.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Confirm New Password"; ObjectID = "SB7-b8-h7M"; */
+"SB7-b8-h7M.text" = "Confirm New Password";
+
+/* Class = "UILabel"; text = "Model"; ObjectID = "Swz-LD-epf"; */
+"Swz-LD-epf.text" = "Model";
+
+/* Class = "UIViewController"; title = "BookingViewController"; ObjectID = "T4r-jA-Pgo"; */
+"T4r-jA-Pgo.title" = "BookingViewController";
+
+/* Class = "UIButton"; normalTitle = "Find Driver"; ObjectID = "Tdz-2K-nbQ"; */
+"Tdz-2K-nbQ.normalTitle" = "Find Driver";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TlF-bg-meB"; */
+"TlF-bg-meB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Forgot Password?"; ObjectID = "Tse-Ug-ciN"; */
+"Tse-Ug-ciN.text" = "Forgot Password?";
+
+/* Class = "UITableViewCell"; accessibilityLabel = "Profile"; ObjectID = "Tx3-T5-C99"; */
+"Tx3-T5-C99.accessibilityLabel" = "Profile";
+
+/* Class = "UILabel"; text = "Pick Up Address"; ObjectID = "UC9-aj-9zA"; */
+"UC9-aj-9zA.text" = "Pick Up Address";
+
+/* Class = "UILabel"; text = "Briefly Describe Yourself"; ObjectID = "UEM-K0-CtI"; */
+"UEM-K0-CtI.text" = "Briefly Describe Yourself";
+
+/* Class = "UILabel"; text = "(Please Specify all Accessibility Options you and your vehicle supports)"; ObjectID = "Umd-Ma-dfK"; */
+"Umd-Ma-dfK.text" = "(Please Specify all Accessibility Options you and your vehicle supports)";
+
+/* Class = "UILabel"; text = "Pickup Address"; ObjectID = "Uqr-nw-avb"; */
+"Uqr-nw-avb.text" = "Pickup Address";
+
+/* Class = "UIViewController"; title = "DriverVehicleDetailsViewController"; ObjectID = "VW2-iR-QvW"; */
+"VW2-iR-QvW.title" = "DriverVehicleDetailsViewController";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "VcT-gL-wZ3"; */
+"VcT-gL-wZ3.text" = "Destination";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Vch-mj-Qdc"; */
+"Vch-mj-Qdc.text" = "Date";
+
+/* Class = "UINavigationItem"; title = "Personal"; ObjectID = "Vka-pW-FI3"; */
+"Vka-pW-FI3.title" = "Personal";
+
+/* Class = "UIButton"; normalTitle = "Now"; ObjectID = "VzK-5c-wAy"; */
+"VzK-5c-wAy.normalTitle" = "Now";
+
+/* Class = "UITextField"; placeholder = "Current Location"; ObjectID = "W7n-py-Zag"; */
+"W7n-py-Zag.placeholder" = "Current Location";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WDg-bP-DBb"; */
+"WDg-bP-DBb.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Wd6-8d-6Ap"; */
+"Wd6-8d-6Ap.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "XCb-hZ-n0h"; */
+"XCb-hZ-n0h.text" = "Phone Number";
+
+/* Class = "UILabel"; text = "Wheelchair Accessible"; ObjectID = "Xkh-5A-OnQ"; */
+"Xkh-5A-OnQ.text" = "Wheelchair Accessible";
+
+/* Class = "UILabel"; text = "Current Password"; ObjectID = "XlP-ka-RTj"; */
+"XlP-ka-RTj.text" = "Current Password";
+
+/* Class = "UILabel"; text = "Wheelchair Accessible"; ObjectID = "Y6R-ED-5o0"; */
+"Y6R-ED-5o0.text" = "Wheelchair Accessible";
+
+/* Class = "UIViewController"; title = "RiderHistoryViewController"; ObjectID = "YG0-yF-TiQ"; */
+"YG0-yF-TiQ.title" = "RiderHistoryViewController";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "YVl-kN-mrG"; */
+"YVl-kN-mrG.text" = "Other";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "Yhg-m6-lnb"; */
+"Yhg-m6-lnb.title" = "About";
+
+/* Class = "UILabel"; text = "Wheelchair Accessible"; ObjectID = "Yv6-Bq-tew"; */
+"Yv6-Bq-tew.text" = "Wheelchair Accessible";
+
+/* Class = "UILabel"; text = "Payment History"; ObjectID = "Z1w-Zk-QFc"; */
+"Z1w-Zk-QFc.text" = "Payment History";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "ZRP-Uh-RGS"; */
+"ZRP-Uh-RGS.text" = "New Password";
+
+/* Class = "UILabel"; text = "Change Email"; ObjectID = "a2u-8J-QVh"; */
+"a2u-8J-QVh.text" = "Change Email";
+
+/* Class = "UILabel"; text = "Special Requests"; ObjectID = "a6i-lb-Ug5"; */
+"a6i-lb-Ug5.text" = "Special Requests";
+
+/* Class = "UILabel"; text = "Pickup Time:"; ObjectID = "aF9-VN-cqZ"; */
+"aF9-VN-cqZ.text" = "Pickup Time:";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "aFv-2O-NMc"; */
+"aFv-2O-NMc.title" = "Details";
+
+/* Class = "UILabel"; text = "Colour"; ObjectID = "abv-Ar-Vez"; */
+"abv-Ar-Vez.text" = "Colour";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "ash-bH-vXq"; */
+"ash-bH-vXq.title" = "History";
+
+/* Class = "UILabel"; text = "text"; ObjectID = "atw-mW-sBi"; */
+"atw-mW-sBi.text" = "text";
+
+/* Class = "UINavigationItem"; title = "Request"; ObjectID = "auK-GK-5DA"; */
+"auK-GK-5DA.title" = "Request";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "bA5-J6-Dmw"; */
+"bA5-J6-Dmw.text" = "Name";
+
+/* Class = "UINavigationItem"; title = "Payments"; ObjectID = "bJu-N6-Zik"; */
+"bJu-N6-Zik.title" = "Payments";
+
+/* Class = "UIViewController"; title = "DriverListViewController"; ObjectID = "bcG-PF-uw2"; */
+"bcG-PF-uw2.title" = "DriverListViewController";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "bom-pb-RbN"; */
+"bom-pb-RbN.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "Payment Received"; ObjectID = "bt1-pw-ep0"; */
+"bt1-pw-ep0.text" = "Payment Received";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "cPh-T8-7H6"; */
+"cPh-T8-7H6.text" = "Type";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "cQb-6b-G2Y"; */
+"cQb-6b-G2Y.title" = "Account";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "cU0-Zl-EYe"; */
+"cU0-Zl-EYe.text" = "Contact Us";
+
+/* Class = "UINavigationItem"; title = "Personal"; ObjectID = "cgc-NJ-szN"; */
+"cgc-NJ-szN.title" = "Personal";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "cpr-J8-fvn"; */
+"cpr-J8-fvn.normalTitle" = "Change";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "ctV-ce-azh"; */
+"ctV-ce-azh.title" = "Account";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "dPM-Pe-Wxh"; */
+"dPM-Pe-Wxh.title" = "Details";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "dPl-Qv-kwy"; */
+"dPl-Qv-kwy.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dW6-Tj-nMk"; */
+"dW6-Tj-nMk.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Log Out"; ObjectID = "dWS-n0-yGX"; */
+"dWS-n0-yGX.normalTitle" = "Log Out";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dq3-Jh-FVk"; */
+"dq3-Jh-FVk.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Accessibility"; ObjectID = "dt5-Ub-7H9"; */
+"dt5-Ub-7H9.title" = "Accessibility";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "dtK-U6-iVy"; */
+"dtK-U6-iVy.title" = "Profile";
+
+/* Class = "UILabel"; text = "Big Trunk"; ObjectID = "ebY-jd-RvV"; */
+"ebY-jd-RvV.text" = "Big Trunk";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eln-MK-ezx"; */
+"eln-MK-ezx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "exh-z2-wO2"; */
+"exh-z2-wO2.text" = "Time";
+
+/* Class = "UILabel"; text = "Wait for confirmation View Controller Placeholder"; ObjectID = "fH7-UQ-XCY"; */
+"fH7-UQ-XCY.text" = "Wait for confirmation View Controller Placeholder";
+
+/* Class = "UINavigationItem"; title = "Request"; ObjectID = "fWk-8k-K07"; */
+"fWk-8k-K07.title" = "Request";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "fZL-OT-Z8e"; */
+"fZL-OT-Z8e.text" = "Date";
+
+/* Class = "UILabel"; text = "(Required)"; ObjectID = "fbS-MU-aHL"; */
+"fbS-MU-aHL.text" = "(Required)";
+
+/* Class = "UILabel"; text = "(Optional)"; ObjectID = "g7g-r2-Gbf"; */
+"g7g-r2-Gbf.text" = "(Optional)";
+
+/* Class = "UIViewController"; title = "RiderRegisterPaymentViewController"; ObjectID = "gDY-To-nYM"; */
+"gDY-To-nYM.title" = "RiderRegisterPaymentViewController";
+
+/* Class = "UINavigationItem"; title = "Password"; ObjectID = "gDa-4W-3YE"; */
+"gDa-4W-3YE.title" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gFf-h6-1SO"; */
+"gFf-h6-1SO.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "gQy-fo-NSf"; */
+"gQy-fo-NSf.title" = "Account";
+
+/* Class = "UIViewController"; title = "OnTheWayViewController"; ObjectID = "gZQ-CX-63l"; */
+"gZQ-CX-63l.title" = "OnTheWayViewController";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "gfM-z9-Nlg"; */
+"gfM-z9-Nlg.text" = "Destination";
+
+/* Class = "UILabel"; text = "Make"; ObjectID = "goj-zb-x7A"; */
+"goj-zb-x7A.text" = "Make";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "gxG-Yu-PBo"; */
+"gxG-Yu-PBo.normalTitle" = "Sign In";
+
+/* Class = "UINavigationItem"; title = "Accessibility"; ObjectID = "hJ0-hf-Ddr"; */
+"hJ0-hf-Ddr.title" = "Accessibility";
+
+/* Class = "UIButton"; normalTitle = "Later"; ObjectID = "hSd-1x-WBD"; */
+"hSd-1x-WBD.normalTitle" = "Later";
+
+/* Class = "UILabel"; text = "Rider"; ObjectID = "hV8-8P-QEV"; */
+"hV8-8P-QEV.text" = "Rider";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "hXM-xi-0Dr"; */
+"hXM-xi-0Dr.title" = "Account";
+
+/* Class = "UILabel"; text = "Physical Assistance"; ObjectID = "htZ-6a-QxV"; */
+"htZ-6a-QxV.text" = "Physical Assistance";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "iK3-oR-nA2"; */
+"iK3-oR-nA2.normalTitle" = "Next";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "iPo-Nm-dFc"; */
+"iPo-Nm-dFc.title" = "Account";
+
+/* Class = "UINavigationItem"; title = "Account"; ObjectID = "iVN-Ku-zDq"; */
+"iVN-Ku-zDq.title" = "Account";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ip8-fw-ZwY"; */
+"ip8-fw-ZwY.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Registration"; ObjectID = "jDi-24-Kkn"; */
+"jDi-24-Kkn.title" = "Registration";
+
+/* Class = "UIViewController"; title = "RidePaymentsViewController"; ObjectID = "jPq-Rb-S38"; */
+"jPq-Rb-S38.title" = "RidePaymentsViewController";
+
+/* Class = "UILabel"; text = "Amount Paid"; ObjectID = "jTX-4m-f9S"; */
+"jTX-4m-f9S.text" = "Amount Paid";
+
+/* Class = "UITabBarItem"; title = "Drive"; ObjectID = "jWc-Tm-Uco"; */
+"jWc-Tm-Uco.title" = "Drive";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "jfh-Ti-o5j"; */
+"jfh-Ti-o5j.title" = "History";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jnR-XN-5kT"; */
+"jnR-XN-5kT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "New Email"; ObjectID = "jp2-Vp-Vod"; */
+"jp2-Vp-Vod.text" = "New Email";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "jvA-M8-LXz"; */
+"jvA-M8-LXz.text" = "Type";
+
+/* Class = "UINavigationItem"; title = "Email"; ObjectID = "jxF-ar-ZKR"; */
+"jxF-ar-ZKR.title" = "Email";
+
+/* Class = "UILabel"; text = "Special Requests"; ObjectID = "kRC-rO-ZDD"; */
+"kRC-rO-ZDD.text" = "Special Requests";
+
+/* Class = "UILabel"; text = "Info@edrive50.com"; ObjectID = "kWf-5W-X2h"; */
+"kWf-5W-X2h.text" = "Info@edrive50.com";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kd7-0M-0BF"; */
+"kd7-0M-0BF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Big Truck"; ObjectID = "kd7-io-jk9"; */
+"kd7-io-jk9.text" = "Big Truck";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "l9a-BN-4kT"; */
+"l9a-BN-4kT.title" = "Account";
+
+/* Class = "UITextField"; placeholder = "To"; ObjectID = "lDH-GM-Vfo"; */
+"lDH-GM-Vfo.placeholder" = "To";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lHc-xE-UVM"; */
+"lHc-xE-UVM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Rider"; ObjectID = "lL5-YE-ybg"; */
+"lL5-YE-ybg.text" = "Rider";
+
+/* Class = "UILabel"; text = "Destination Address"; ObjectID = "lRP-6F-EqL"; */
+"lRP-6F-EqL.text" = "Destination Address";
+
+/* Class = "UITabBarItem"; title = "Ride"; ObjectID = "laz-K8-wfY"; */
+"laz-K8-wfY.title" = "Ride";
+
+/* Class = "UILabel"; text = "Pickup Address"; ObjectID = "liI-XY-hKG"; */
+"liI-XY-hKG.text" = "Pickup Address";
+
+/* Class = "UIViewController"; title = "RiderAboutViewController"; ObjectID = "lnV-0N-VUX"; */
+"lnV-0N-VUX.title" = "RiderAboutViewController";
+
+/* Class = "UINavigationItem"; title = "Time"; ObjectID = "lt5-Zs-iH9"; */
+"lt5-Zs-iH9.title" = "Time";
+
+/* Class = "UIViewController"; title = "DriverDecsriptionViewController"; ObjectID = "m0F-Nb-9JQ"; */
+"m0F-Nb-9JQ.title" = "DriverDecsriptionViewController";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "m24-SR-KSw"; */
+"m24-SR-KSw.normalTitle" = "Submit";
+
+/* Class = "UITextView"; text = "Name"; ObjectID = "mBJ-eD-lmV"; */
+"mBJ-eD-lmV.text" = "Name";
+
+/* Class = "UITextView"; text = "edrive50 version 1.0 was created by Creative Minds mobile app development team at Algonquin College."; ObjectID = "mx6-Qg-2cl"; */
+"mx6-Qg-2cl.text" = "edrive50 version 1.0 was created by Creative Minds mobile app development team at Algonquin College.";
+
+/* Class = "UILabel"; text = "Confirm New Email"; ObjectID = "n49-ck-wp9"; */
+"n49-ck-wp9.text" = "Confirm New Email";
+
+/* Class = "UINavigationItem"; title = "Request"; ObjectID = "n6h-B2-Obg"; */
+"n6h-B2-Obg.title" = "Request";
+
+/* Class = "UILabel"; text = "123, Albion Road, K1v8s3, Ottawa."; ObjectID = "n8N-NW-4Bo"; */
+"n8N-NW-4Bo.text" = "123, Albion Road, K1v8s3, Ottawa.";
+
+/* Class = "UILabel"; text = "Driven By"; ObjectID = "nEm-xl-HbX"; */
+"nEm-xl-HbX.text" = "Driven By";
+
+/* Class = "UIViewController"; title = "SpecialRequestViewController"; ObjectID = "nLI-oF-o69"; */
+"nLI-oF-o69.title" = "SpecialRequestViewController";
+
+/* Class = "UILabel"; text = "Pickup Address"; ObjectID = "nTK-R0-V4h"; */
+"nTK-R0-V4h.text" = "Pickup Address";
+
+/* Class = "UIViewController"; title = "DriverEmailChangeViewController"; ObjectID = "nXn-Ou-hEe"; */
+"nXn-Ou-hEe.title" = "DriverEmailChangeViewController";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "nbm-jK-ApY"; */
+"nbm-jK-ApY.text" = "CVV";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "ndc-jG-Klo"; */
+"ndc-jG-Klo.title" = "Account";
+
+/* Class = "UILabel"; text = "Wheelchair Accessible"; ObjectID = "nn6-72-Zkb"; */
+"nn6-72-Zkb.text" = "Wheelchair Accessible";
+
+/* Class = "UIViewController"; title = "MapAndSearchViewController"; ObjectID = "nsu-G6-5Iq"; */
+"nsu-G6-5Iq.title" = "MapAndSearchViewController";
+
+/* Class = "UIButton"; normalTitle = "Register as a Rider"; ObjectID = "ogJ-Fx-2Ge"; */
+"ogJ-Fx-2Ge.normalTitle" = "Register as a Rider";
+
+/* Class = "UILabel"; text = "10-11-1919"; ObjectID = "omb-ry-uSa"; */
+"omb-ry-uSa.text" = "10-11-1919";
+
+/* Class = "UILabel"; text = "Is On The Way!"; ObjectID = "p0q-nT-x2r"; */
+"p0q-nT-x2r.text" = "Is On The Way!";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "pBD-wq-9xQ"; */
+"pBD-wq-9xQ.text" = "Name";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "pFY-eM-t99"; */
+"pFY-eM-t99.title" = "Account";
+
+/* Class = "UILabel"; text = "Current Email"; ObjectID = "pt4-7n-QGJ"; */
+"pt4-7n-QGJ.text" = "Current Email";
+
+/* Class = "UILabel"; text = "Book When?"; ObjectID = "q6o-O6-3f8"; */
+"q6o-O6-3f8.text" = "Book When?";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "qxE-xQ-OYJ"; */
+"qxE-xQ-OYJ.title" = "Account";
+
+/* Class = "UILabel"; text = "Profile Picture (Optional)"; ObjectID = "qzB-bP-aQ8"; */
+"qzB-bP-aQ8.text" = "Profile Picture (Optional)";
+
+/* Class = "UILabel"; text = "(Optional)"; ObjectID = "rfo-VB-acz"; */
+"rfo-VB-acz.text" = "(Optional)";
+
+/* Class = "UILabel"; text = "Card Number"; ObjectID = "rnE-HG-3L6"; */
+"rnE-HG-3L6.text" = "Card Number";
+
+/* Class = "UILabel"; text = "Change Email"; ObjectID = "sDM-WQ-aWv"; */
+"sDM-WQ-aWv.text" = "Change Email";
+
+/* Class = "UILabel"; text = "Wheelchair Accessible"; ObjectID = "sGh-00-7X4"; */
+"sGh-00-7X4.text" = "Wheelchair Accessible";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sXV-j6-Xgg"; */
+"sXV-j6-Xgg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Pickup Address"; ObjectID = "sdd-Lg-fj2"; */
+"sdd-Lg-fj2.text" = "Pickup Address";
+
+/* Class = "UILabel"; text = "Pick Up"; ObjectID = "snz-iz-4c5"; */
+"snz-iz-4c5.text" = "Pick Up";
+
+/* Class = "UILabel"; text = "123, Albion Road, K1v8s3, Ottawa."; ObjectID = "t3o-eZ-rZJ"; */
+"t3o-eZ-rZJ.text" = "123, Albion Road, K1v8s3, Ottawa.";
+
+/* Class = "UITextView"; text = "The best way to safely book a ride no matter where you are. (Swipe to continue)"; ObjectID = "t7a-Jw-pph"; */
+"t7a-Jw-pph.text" = "The best way to safely book a ride no matter where you are. (Swipe to continue)";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tRS-vb-EC8"; */
+"tRS-vb-EC8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Your Feedback"; ObjectID = "tr6-ww-zGs"; */
+"tr6-ww-zGs.text" = "Your Feedback";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "tui-Cv-oPb"; */
+"tui-Cv-oPb.title" = "Account";
+
+/* Class = "UILabel"; text = "Big Truck"; ObjectID = "uLf-n1-1W1"; */
+"uLf-n1-1W1.text" = "Big Truck";
+
+/* Class = "UILabel"; text = "(Rated by you)"; ObjectID = "ucW-Tt-iXJ"; */
+"ucW-Tt-iXJ.text" = "(Rated by you)";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "ul9-cn-Mj2"; */
+"ul9-cn-Mj2.normalTitle" = "Sign up";
+
+/* Class = "UILabel"; text = "Confirm New Password"; ObjectID = "uw0-od-HoL"; */
+"uw0-od-HoL.text" = "Confirm New Password";
+
+/* Class = "UILabel"; text = "Physical Assistance"; ObjectID = "uy5-fX-0lo"; */
+"uy5-fX-0lo.text" = "Physical Assistance";
+
+/* Class = "UILabel"; text = "Registered Name"; ObjectID = "uzV-ZS-AKY"; */
+"uzV-ZS-AKY.text" = "Registered Name";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "v9r-Hv-CiQ"; */
+"v9r-Hv-CiQ.text" = "Destination";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "vDw-l1-cec"; */
+"vDw-l1-cec.title" = "Account";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "vec-VO-Uh8"; */
+"vec-VO-Uh8.normalTitle" = "Save";
+
+/* Class = "UITabBarItem"; title = "Account"; ObjectID = "vhh-sE-Jx2"; */
+"vhh-sE-Jx2.title" = "Account";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "vsw-QI-7AJ"; */
+"vsw-QI-7AJ.title" = "About";
+
+/* Class = "UIViewController"; title = "WaitingViewController"; ObjectID = "wRo-tx-kwW"; */
+"wRo-tx-kwW.title" = "WaitingViewController";
+
+/* Class = "UIViewController"; title = "DriverChangePasswordViewController"; ObjectID = "wbQ-ht-nmO"; */
+"wbQ-ht-nmO.title" = "DriverChangePasswordViewController";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wpd-a8-CNR"; */
+"wpd-a8-CNR.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Pickup Address"; ObjectID = "xGT-Xw-USa"; */
+"xGT-Xw-USa.text" = "Pickup Address";
+
+/* Class = "UITextView"; text = "Name"; ObjectID = "xJk-fk-mk3"; */
+"xJk-fk-mk3.text" = "Name";
+
+/* Class = "UILabel"; text = "Vehicle Details"; ObjectID = "xT4-QO-b9c"; */
+"xT4-QO-b9c.text" = "Vehicle Details";
+
+/* Class = "UILabel"; text = "Family Contact"; ObjectID = "xl5-63-5yR"; */
+"xl5-63-5yR.text" = "Family Contact";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "y1j-9y-g4v"; */
+"y1j-9y-g4v.text" = "Name";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "y54-ec-LGh"; */
+"y54-ec-LGh.title" = "Details";
+
+/* Class = "UIViewController"; title = "PointAPointBViewController"; ObjectID = "yLt-vi-owx"; */
+"yLt-vi-owx.title" = "PointAPointBViewController";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "yOi-Qe-39q"; */
+"yOi-Qe-39q.text" = "Other";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "yPF-M5-fKv"; */
+"yPF-M5-fKv.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "yat-6e-ygw"; */
+"yat-6e-ygw.normalTitle" = "Save";
+
+/* Class = "UINavigationItem"; title = "Payment"; ObjectID = "yuA-aa-kXD"; */
+"yuA-aa-kXD.title" = "Payment";
+
+/* Class = "UINavigationItem"; title = "Password"; ObjectID = "zlh-eU-92k"; */
+"zlh-eU-92k.title" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "zx4-QK-nSQ"; */
+"zx4-QK-nSQ.normalTitle" = "Next";

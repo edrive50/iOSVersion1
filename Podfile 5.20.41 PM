@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+target 'edrive50' do
+  pod 'GoogleMaps'
+  pod 'GooglePlaces'
+  pod 'SwiftyJSON', '~> 4.0'
+  pod 'Realm'
+  pod 'RealmSwift'
+  pod 'CollapsibleTableSectionViewController', '~> 1.0.0'
+end

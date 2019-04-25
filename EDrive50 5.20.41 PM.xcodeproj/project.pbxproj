@@ -1,0 +1,1041 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0A485E02226CA57F007E76FC /* RideInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A485E01226CA57F007E76FC /* RideInfo.swift */; };
+		0A485E14226CF69B007E76FC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0A485E16226CF69B007E76FC /* Localizable.strings */; };
+		0A485E22226D550F007E76FC /* RiderPaymentDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A485E21226D550F007E76FC /* RiderPaymentDetailsViewController.swift */; };
+		0A48FAF82270F353001E385E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A48FAF72270F353001E385E /* ViewController.swift */; };
+		0A9E2035226043B7006B5867 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A9E2037226043B7006B5867 /* Main.storyboard */; };
+		0AA687032257F70000DF2C35 /* RideSchedulingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA687022257F70000DF2C35 /* RideSchedulingViewController.swift */; };
+		0AA687052257F74000DF2C35 /* RideScheduleRequestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA687042257F74000DF2C35 /* RideScheduleRequestViewController.swift */; };
+		0AE71AFA225BCD5A0010F9E9 /* DriverVehicleDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE71AF9225BCD5A0010F9E9 /* DriverVehicleDetailsViewController.swift */; };
+		89701DB94C118E755E533DCA /* Pods_edrive50.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF431D8BF321E4BD1E558D57 /* Pods_edrive50.framework */; };
+		8A06082122431DA400DBD32B /* RiderRegisterOptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A06082022431DA400DBD32B /* RiderRegisterOptionsViewController.swift */; };
+		8A06082322431EAF00DBD32B /* CheckmarkButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A06082222431EAF00DBD32B /* CheckmarkButton.swift */; };
+		8A0608252243214300DBD32B /* RiderRegisterPayOptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0608242243214300DBD32B /* RiderRegisterPayOptionsViewController.swift */; };
+		8A0608272243253500DBD32B /* RiderRegisterPaymentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0608262243253500DBD32B /* RiderRegisterPaymentViewController.swift */; };
+		8A06082A224325B500DBD32B /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A060829224325B500DBD32B /* LoginViewController.swift */; };
+		8A06082C224325D400DBD32B /* LoginSplashScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A06082B224325D400DBD32B /* LoginSplashScreenViewController.swift */; };
+		8A06086922467DA700DBD32B /* DriverRegisterAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A06086822467DA700DBD32B /* DriverRegisterAccountViewController.swift */; };
+		8A06086B22467E6400DBD32B /* DriverOptionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A06086A22467E6400DBD32B /* DriverOptionsViewController.swift */; };
+		8A06086D22467E8F00DBD32B /* DriverDescriptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A06086C22467E8F00DBD32B /* DriverDescriptionViewController.swift */; };
+		8A06086F22467F3600DBD32B /* VehicleRegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A06086E22467F3600DBD32B /* VehicleRegistrationViewController.swift */; };
+		8A0608712246888C00DBD32B /* DriverInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A0608702246888C00DBD32B /* DriverInfo.swift */; };
+		8A060876224A89E300DBD32B /* ReceiveRequestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A060875224A89E300DBD32B /* ReceiveRequestViewController.swift */; };
+		8A3228F1224FFE0400C3DB54 /* Place.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3228F0224FFE0400C3DB54 /* Place.swift */; };
+		8A3228F322505C2900C3DB54 /* DrivingMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3228F222505C2900C3DB54 /* DrivingMapViewController.swift */; };
+		8A355614226AF5C30092A730 /* StarButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A355613226AF5C30092A730 /* StarButton.swift */; };
+		8A355616226AF7820092A730 /* FeedbackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A355615226AF7820092A730 /* FeedbackViewController.swift */; };
+		8A355618226B71C70092A730 /* DriverListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A355617226B71C70092A730 /* DriverListTableViewCell.swift */; };
+		8A3720FF2254D5F8007D8865 /* DriverSettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3720F32254D5F7007D8865 /* DriverSettingsViewController.swift */; };
+		8A3721002254D5F8007D8865 /* DriverAccountsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3720F42254D5F7007D8865 /* DriverAccountsViewController.swift */; };
+		8A3721012254D5F8007D8865 /* DriverHistoryDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3720F52254D5F7007D8865 /* DriverHistoryDetailsViewController.swift */; };
+		8A3721022254D5F8007D8865 /* DriverAccecibilityOptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3720F62254D5F7007D8865 /* DriverAccecibilityOptionViewController.swift */; };
+		8A3721032254D5F8007D8865 /* DriverProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3720F72254D5F7007D8865 /* DriverProfileViewController.swift */; };
+		8A3721042254D5F8007D8865 /* DriverPaymentsDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3720F82254D5F7007D8865 /* DriverPaymentsDetailsViewController.swift */; };
+		8A3721052254D5F8007D8865 /* DriverEmailChangeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3720F92254D5F8007D8865 /* DriverEmailChangeViewController.swift */; };
+		8A3721062254D5F8007D8865 /* DriverHistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3720FA2254D5F8007D8865 /* DriverHistoryViewController.swift */; };
+		8A3721072254D5F8007D8865 /* DriverDetailsFeedabackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3720FB2254D5F8007D8865 /* DriverDetailsFeedabackViewController.swift */; };
+		8A3721082254D5F8007D8865 /* DriverChangePasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3720FC2254D5F8007D8865 /* DriverChangePasswordViewController.swift */; };
+		8A3721092254D5F8007D8865 /* DriverAboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3720FD2254D5F8007D8865 /* DriverAboutViewController.swift */; };
+		8A3721152254D610007D8865 /* RiderAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A37210A2254D60F007D8865 /* RiderAccountViewController.swift */; };
+		8A3721162254D610007D8865 /* RiderChangeEmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A37210B2254D60F007D8865 /* RiderChangeEmailViewController.swift */; };
+		8A3721172254D610007D8865 /* RiderHistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A37210C2254D610007D8865 /* RiderHistoryViewController.swift */; };
+		8A3721182254D610007D8865 /* RiderPaymentsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A37210D2254D610007D8865 /* RiderPaymentsViewController.swift */; };
+		8A3721192254D610007D8865 /* RiderSpecialRequirementViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A37210E2254D610007D8865 /* RiderSpecialRequirementViewController.swift */; };
+		8A37211A2254D610007D8865 /* RiderChangePasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A37210F2254D610007D8865 /* RiderChangePasswordViewController.swift */; };
+		8A37211B2254D610007D8865 /* RiderHistoryDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3721102254D610007D8865 /* RiderHistoryDetailsViewController.swift */; };
+		8A37211C2254D610007D8865 /* RiderProfilesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3721112254D610007D8865 /* RiderProfilesViewController.swift */; };
+		8A37211E2254D610007D8865 /* RiderAboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3721132254D610007D8865 /* RiderAboutViewController.swift */; };
+		8A37211F2254D610007D8865 /* RiderDetailsFeedbackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3721142254D610007D8865 /* RiderDetailsFeedbackViewController.swift */; };
+		8A37212122552FEE007D8865 /* Driver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A37212022552FEE007D8865 /* Driver.swift */; };
+		8A70404A2255CDED00CD5D26 /* Rider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7040492255CDED00CD5D26 /* Rider.swift */; };
+		8A8C5A802242DA75004CBCDC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8C5A7F2242DA75004CBCDC /* AppDelegate.swift */; };
+		8A8C5A872242DA76004CBCDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A8C5A862242DA76004CBCDC /* Assets.xcassets */; };
+		8A8C5A8A2242DA76004CBCDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A8C5A882242DA76004CBCDC /* LaunchScreen.storyboard */; };
+		8A8C5A952242DA76004CBCDC /* edrive50Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8C5A942242DA76004CBCDC /* edrive50Tests.swift */; };
+		8A8C5AA02242DA76004CBCDC /* edrive50UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8C5A9F2242DA76004CBCDC /* edrive50UITests.swift */; };
+		8A8C5AB12242E18A004CBCDC /* RiderRegisterAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8C5AB02242E18A004CBCDC /* RiderRegisterAccountViewController.swift */; };
+		8A8C5AB22242E18A004CBCDC /* RiderRegisterAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8C5AB02242E18A004CBCDC /* RiderRegisterAccountViewController.swift */; };
+		8A8C5AB32242E18A004CBCDC /* RiderRegisterAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8C5AB02242E18A004CBCDC /* RiderRegisterAccountViewController.swift */; };
+		8A8C5AB52242E219004CBCDC /* RiderInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8C5AB42242E219004CBCDC /* RiderInfo.swift */; };
+		8A8C5AB62242E219004CBCDC /* RiderInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8C5AB42242E219004CBCDC /* RiderInfo.swift */; };
+		8A8C5AB72242E219004CBCDC /* RiderInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8C5AB42242E219004CBCDC /* RiderInfo.swift */; };
+		8A9A5102224BFC4000624A20 /* WaitForAuthorizationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9A5101224BFC4000624A20 /* WaitForAuthorizationViewController.swift */; };
+		8A9A5106224C0D1B00624A20 /* MapAndSearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9A5105224C0D1B00624A20 /* MapAndSearchViewController.swift */; };
+		8A9A5108224C0D3100624A20 /* PointAPointBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9A5107224C0D3100624A20 /* PointAPointBViewController.swift */; };
+		8A9A510A224C0D5900624A20 /* BookingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9A5109224C0D5900624A20 /* BookingViewController.swift */; };
+		8A9A510C224C0D8F00624A20 /* SpecialRequestsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9A510B224C0D8F00624A20 /* SpecialRequestsViewController.swift */; };
+		8A9A5110224D072000624A20 /* DriverListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9A510F224D072000624A20 /* DriverListViewController.swift */; };
+		8A9A5112224D0C3B00624A20 /* WaitingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9A5111224D0C3B00624A20 /* WaitingViewController.swift */; };
+		8A9A5114224D0C5F00624A20 /* OnTheWayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9A5113224D0C5F00624A20 /* OnTheWayViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8A8C5A912242DA76004CBCDC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A8C5A742242DA75004CBCDC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8A8C5A7B2242DA75004CBCDC;
+			remoteInfo = edrive50;
+		};
+		8A8C5A9C2242DA76004CBCDC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A8C5A742242DA75004CBCDC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8A8C5A7B2242DA75004CBCDC;
+			remoteInfo = edrive50;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0A0F4058225E54DD00F7F12B /* edrive50.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = edrive50.entitlements; sourceTree = "<group>"; };
+		0A485E01226CA57F007E76FC /* RideInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RideInfo.swift; path = EDrive50/SupportFiles/RideInfo.swift; sourceTree = SOURCE_ROOT; };
+		0A485E15226CF69B007E76FC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0A485E1D226D16E7007E76FC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = ../EDrive50/en.lproj/Main.strings; sourceTree = "<group>"; };
+		0A485E1F226D17D3007E76FC /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "../EDrive50/fr-CA.lproj/Main.strings"; sourceTree = "<group>"; };
+		0A485E20226D17F9007E76FC /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		0A485E21226D550F007E76FC /* RiderPaymentDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RiderPaymentDetailsViewController.swift; path = EDrive50/Account/Rider/RiderPaymentDetailsViewController.swift; sourceTree = SOURCE_ROOT; };
+		0A48FAF72270F353001E385E /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		0A4D5E422264EDF200C3532D /* fr-CA */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "fr-CA.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		0A9E2036226043B7006B5867 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0AA687022257F70000DF2C35 /* RideSchedulingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RideSchedulingViewController.swift; path = EDrive50/BookRide/Rider/RideSchedulingViewController.swift; sourceTree = SOURCE_ROOT; };
+		0AA687042257F74000DF2C35 /* RideScheduleRequestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = RideScheduleRequestViewController.swift; path = EDrive50/BookRide/Rider/RideScheduleRequestViewController.swift; sourceTree = SOURCE_ROOT; };
+		0AE71AF9225BCD5A0010F9E9 /* DriverVehicleDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DriverVehicleDetailsViewController.swift; path = EDrive50/Account/Driver/DriverVehicleDetailsViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A06082022431DA400DBD32B /* RiderRegisterOptionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RiderRegisterOptionsViewController.swift; sourceTree = "<group>"; };
+		8A06082222431EAF00DBD32B /* CheckmarkButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckmarkButton.swift; sourceTree = "<group>"; };
+		8A0608242243214300DBD32B /* RiderRegisterPayOptionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RiderRegisterPayOptionsViewController.swift; sourceTree = "<group>"; };
+		8A0608262243253500DBD32B /* RiderRegisterPaymentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RiderRegisterPaymentViewController.swift; sourceTree = "<group>"; };
+		8A060829224325B500DBD32B /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		8A06082B224325D400DBD32B /* LoginSplashScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginSplashScreenViewController.swift; sourceTree = "<group>"; };
+		8A06086822467DA700DBD32B /* DriverRegisterAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DriverRegisterAccountViewController.swift; sourceTree = "<group>"; };
+		8A06086A22467E6400DBD32B /* DriverOptionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DriverOptionsViewController.swift; sourceTree = "<group>"; };
+		8A06086C22467E8F00DBD32B /* DriverDescriptionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DriverDescriptionViewController.swift; sourceTree = "<group>"; };
+		8A06086E22467F3600DBD32B /* VehicleRegistrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehicleRegistrationViewController.swift; sourceTree = "<group>"; };
+		8A0608702246888C00DBD32B /* DriverInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DriverInfo.swift; sourceTree = "<group>"; };
+		8A060875224A89E300DBD32B /* ReceiveRequestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReceiveRequestViewController.swift; sourceTree = "<group>"; };
+		8A3228F0224FFE0400C3DB54 /* Place.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
+		8A3228F222505C2900C3DB54 /* DrivingMapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrivingMapViewController.swift; sourceTree = "<group>"; };
+		8A355613226AF5C30092A730 /* StarButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StarButton.swift; path = EDrive50/SupportFiles/StarButton.swift; sourceTree = SOURCE_ROOT; };
+		8A355615226AF7820092A730 /* FeedbackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = FeedbackViewController.swift; path = EDrive50/BookRide/Rider/FeedbackViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A355617226B71C70092A730 /* DriverListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DriverListTableViewCell.swift; path = EDrive50/BookRide/Rider/DriverListTableViewCell.swift; sourceTree = SOURCE_ROOT; };
+		8A3720F32254D5F7007D8865 /* DriverSettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DriverSettingsViewController.swift; path = edrive50/Account/Driver/DriverSettingsViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A3720F42254D5F7007D8865 /* DriverAccountsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DriverAccountsViewController.swift; path = edrive50/Account/Driver/DriverAccountsViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A3720F52254D5F7007D8865 /* DriverHistoryDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DriverHistoryDetailsViewController.swift; path = edrive50/Account/Driver/DriverHistoryDetailsViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A3720F62254D5F7007D8865 /* DriverAccecibilityOptionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DriverAccecibilityOptionViewController.swift; path = edrive50/Account/Driver/DriverAccecibilityOptionViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A3720F72254D5F7007D8865 /* DriverProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DriverProfileViewController.swift; path = edrive50/Account/Driver/DriverProfileViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A3720F82254D5F7007D8865 /* DriverPaymentsDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DriverPaymentsDetailsViewController.swift; path = edrive50/Account/Driver/DriverPaymentsDetailsViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A3720F92254D5F8007D8865 /* DriverEmailChangeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DriverEmailChangeViewController.swift; path = edrive50/Account/Driver/DriverEmailChangeViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A3720FA2254D5F8007D8865 /* DriverHistoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DriverHistoryViewController.swift; path = edrive50/Account/Driver/DriverHistoryViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A3720FB2254D5F8007D8865 /* DriverDetailsFeedabackViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DriverDetailsFeedabackViewController.swift; path = edrive50/Account/Driver/DriverDetailsFeedabackViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A3720FC2254D5F8007D8865 /* DriverChangePasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DriverChangePasswordViewController.swift; path = edrive50/Account/Driver/DriverChangePasswordViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A3720FD2254D5F8007D8865 /* DriverAboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DriverAboutViewController.swift; path = edrive50/Account/Driver/DriverAboutViewController.swift; sourceTree = SOURCE_ROOT; };
+		8A37210A2254D60F007D8865 /* RiderAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RiderAccountViewController.swift; sourceTree = "<group>"; };
+		8A37210B2254D60F007D8865 /* RiderChangeEmailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RiderChangeEmailViewController.swift; sourceTree = "<group>"; };
+		8A37210C2254D610007D8865 /* RiderHistoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RiderHistoryViewController.swift; sourceTree = "<group>"; };
+		8A37210D2254D610007D8865 /* RiderPaymentsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RiderPaymentsViewController.swift; sourceTree = "<group>"; };
+		8A37210E2254D610007D8865 /* RiderSpecialRequirementViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RiderSpecialRequirementViewController.swift; sourceTree = "<group>"; };
+		8A37210F2254D610007D8865 /* RiderChangePasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RiderChangePasswordViewController.swift; sourceTree = "<group>"; };
+		8A3721102254D610007D8865 /* RiderHistoryDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RiderHistoryDetailsViewController.swift; sourceTree = "<group>"; };
+		8A3721112254D610007D8865 /* RiderProfilesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RiderProfilesViewController.swift; sourceTree = "<group>"; };
+		8A3721132254D610007D8865 /* RiderAboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RiderAboutViewController.swift; sourceTree = "<group>"; };
+		8A3721142254D610007D8865 /* RiderDetailsFeedbackViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RiderDetailsFeedbackViewController.swift; sourceTree = "<group>"; };
+		8A37212022552FEE007D8865 /* Driver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Driver.swift; sourceTree = "<group>"; };
+		8A7040492255CDED00CD5D26 /* Rider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rider.swift; sourceTree = "<group>"; };
+		8A8C5A7C2242DA75004CBCDC /* edrive50.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = edrive50.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A8C5A7F2242DA75004CBCDC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8A8C5A862242DA76004CBCDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8A8C5A892242DA76004CBCDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8A8C5A8B2242DA76004CBCDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A8C5A902242DA76004CBCDC /* edrive50Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = edrive50Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A8C5A942242DA76004CBCDC /* edrive50Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = edrive50Tests.swift; sourceTree = "<group>"; };
+		8A8C5A962242DA76004CBCDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A8C5A9B2242DA76004CBCDC /* edrive50UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = edrive50UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A8C5A9F2242DA76004CBCDC /* edrive50UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = edrive50UITests.swift; sourceTree = "<group>"; };
+		8A8C5AA12242DA76004CBCDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A8C5AB02242E18A004CBCDC /* RiderRegisterAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RiderRegisterAccountViewController.swift; sourceTree = "<group>"; };
+		8A8C5AB42242E219004CBCDC /* RiderInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RiderInfo.swift; sourceTree = "<group>"; };
+		8A9A5101224BFC4000624A20 /* WaitForAuthorizationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaitForAuthorizationViewController.swift; sourceTree = "<group>"; };
+		8A9A5105224C0D1B00624A20 /* MapAndSearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAndSearchViewController.swift; sourceTree = "<group>"; };
+		8A9A5107224C0D3100624A20 /* PointAPointBViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PointAPointBViewController.swift; sourceTree = "<group>"; };
+		8A9A5109224C0D5900624A20 /* BookingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingViewController.swift; sourceTree = "<group>"; };
+		8A9A510B224C0D8F00624A20 /* SpecialRequestsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialRequestsViewController.swift; sourceTree = "<group>"; };
+		8A9A510F224D072000624A20 /* DriverListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DriverListViewController.swift; sourceTree = "<group>"; };
+		8A9A5111224D0C3B00624A20 /* WaitingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaitingViewController.swift; sourceTree = "<group>"; };
+		8A9A5113224D0C5F00624A20 /* OnTheWayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnTheWayViewController.swift; sourceTree = "<group>"; };
+		941ACCED69E1583E6A0C1941 /* Pods-edrive50.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-edrive50.debug.xcconfig"; path = "Target Support Files/Pods-edrive50/Pods-edrive50.debug.xcconfig"; sourceTree = "<group>"; };
+		AF431D8BF321E4BD1E558D57 /* Pods_edrive50.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_edrive50.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E51B620F83C6CBFB946D492A /* Pods-edrive50.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-edrive50.release.xcconfig"; path = "Target Support Files/Pods-edrive50/Pods-edrive50.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8A8C5A792242DA75004CBCDC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				89701DB94C118E755E533DCA /* Pods_edrive50.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A8C5A8D2242DA76004CBCDC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A8C5A982242DA76004CBCDC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		471DF1C7AE756330D8BC41F0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AF431D8BF321E4BD1E558D57 /* Pods_edrive50.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8A06081E2242EFDF00DBD32B /* RegisterRider */ = {
+			isa = PBXGroup;
+			children = (
+				8A8C5AB02242E18A004CBCDC /* RiderRegisterAccountViewController.swift */,
+				8A06082022431DA400DBD32B /* RiderRegisterOptionsViewController.swift */,
+				8A0608242243214300DBD32B /* RiderRegisterPayOptionsViewController.swift */,
+				8A0608262243253500DBD32B /* RiderRegisterPaymentViewController.swift */,
+			);
+			path = RegisterRider;
+			sourceTree = "<group>";
+		};
+		8A06081F2242F03D00DBD32B /* SupportFiles */ = {
+			isa = PBXGroup;
+			children = (
+				8A8C5AB42242E219004CBCDC /* RiderInfo.swift */,
+				8A06082222431EAF00DBD32B /* CheckmarkButton.swift */,
+				8A0608702246888C00DBD32B /* DriverInfo.swift */,
+				8A3228F0224FFE0400C3DB54 /* Place.swift */,
+				8A37212022552FEE007D8865 /* Driver.swift */,
+				8A7040492255CDED00CD5D26 /* Rider.swift */,
+				8A355613226AF5C30092A730 /* StarButton.swift */,
+				0A485E01226CA57F007E76FC /* RideInfo.swift */,
+			);
+			path = SupportFiles;
+			sourceTree = "<group>";
+		};
+		8A0608282243255100DBD32B /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				8A060829224325B500DBD32B /* LoginViewController.swift */,
+				8A06082B224325D400DBD32B /* LoginSplashScreenViewController.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		8A06086722467ABE00DBD32B /* RegisterDriver */ = {
+			isa = PBXGroup;
+			children = (
+				8A06086822467DA700DBD32B /* DriverRegisterAccountViewController.swift */,
+				8A06086A22467E6400DBD32B /* DriverOptionsViewController.swift */,
+				8A06086C22467E8F00DBD32B /* DriverDescriptionViewController.swift */,
+				8A06086E22467F3600DBD32B /* VehicleRegistrationViewController.swift */,
+				8A9A5101224BFC4000624A20 /* WaitForAuthorizationViewController.swift */,
+			);
+			path = RegisterDriver;
+			sourceTree = "<group>";
+		};
+		8A3720D72254D4B7007D8865 /* Account */ = {
+			isa = PBXGroup;
+			children = (
+				8A3720D92254D540007D8865 /* Driver */,
+				8A3720D82254D53B007D8865 /* Rider */,
+			);
+			path = Account;
+			sourceTree = "<group>";
+		};
+		8A3720D82254D53B007D8865 /* Rider */ = {
+			isa = PBXGroup;
+			children = (
+				8A3721132254D610007D8865 /* RiderAboutViewController.swift */,
+				8A37210A2254D60F007D8865 /* RiderAccountViewController.swift */,
+				8A37210B2254D60F007D8865 /* RiderChangeEmailViewController.swift */,
+				8A37210F2254D610007D8865 /* RiderChangePasswordViewController.swift */,
+				8A3721142254D610007D8865 /* RiderDetailsFeedbackViewController.swift */,
+				8A3721102254D610007D8865 /* RiderHistoryDetailsViewController.swift */,
+				8A37210C2254D610007D8865 /* RiderHistoryViewController.swift */,
+				8A37210D2254D610007D8865 /* RiderPaymentsViewController.swift */,
+				8A3721112254D610007D8865 /* RiderProfilesViewController.swift */,
+				8A37210E2254D610007D8865 /* RiderSpecialRequirementViewController.swift */,
+				0A485E21226D550F007E76FC /* RiderPaymentDetailsViewController.swift */,
+			);
+			path = Rider;
+			sourceTree = "<group>";
+		};
+		8A3720D92254D540007D8865 /* Driver */ = {
+			isa = PBXGroup;
+			children = (
+				8A3720FD2254D5F8007D8865 /* DriverAboutViewController.swift */,
+				8A3720F62254D5F7007D8865 /* DriverAccecibilityOptionViewController.swift */,
+				8A3720F42254D5F7007D8865 /* DriverAccountsViewController.swift */,
+				8A3720FC2254D5F8007D8865 /* DriverChangePasswordViewController.swift */,
+				8A3720FB2254D5F8007D8865 /* DriverDetailsFeedabackViewController.swift */,
+				8A3720F92254D5F8007D8865 /* DriverEmailChangeViewController.swift */,
+				8A3720F52254D5F7007D8865 /* DriverHistoryDetailsViewController.swift */,
+				8A3720FA2254D5F8007D8865 /* DriverHistoryViewController.swift */,
+				8A3720F82254D5F7007D8865 /* DriverPaymentsDetailsViewController.swift */,
+				8A3720F72254D5F7007D8865 /* DriverProfileViewController.swift */,
+				8A3720F32254D5F7007D8865 /* DriverSettingsViewController.swift */,
+				0AE71AF9225BCD5A0010F9E9 /* DriverVehicleDetailsViewController.swift */,
+			);
+			path = Driver;
+			sourceTree = "<group>";
+		};
+		8A8C5A732242DA75004CBCDC = {
+			isa = PBXGroup;
+			children = (
+				8A8C5A7E2242DA75004CBCDC /* edrive50 */,
+				8A8C5A932242DA76004CBCDC /* edrive50Tests */,
+				8A8C5A9E2242DA76004CBCDC /* edrive50UITests */,
+				8A8C5A7D2242DA75004CBCDC /* Products */,
+				BF0CC03DF3372EBBD751BE4F /* Pods */,
+				471DF1C7AE756330D8BC41F0 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		8A8C5A7D2242DA75004CBCDC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8A8C5A7C2242DA75004CBCDC /* edrive50.app */,
+				8A8C5A902242DA76004CBCDC /* edrive50Tests.xctest */,
+				8A8C5A9B2242DA76004CBCDC /* edrive50UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8A8C5A7E2242DA75004CBCDC /* edrive50 */ = {
+			isa = PBXGroup;
+			children = (
+				0A9E2037226043B7006B5867 /* Main.storyboard */,
+				0A0F4058225E54DD00F7F12B /* edrive50.entitlements */,
+				8A3720D72254D4B7007D8865 /* Account */,
+				8A9A5104224C0CBA00624A20 /* BookRide */,
+				8A06081E2242EFDF00DBD32B /* RegisterRider */,
+				8A06086722467ABE00DBD32B /* RegisterDriver */,
+				8A0608282243255100DBD32B /* Login */,
+				8A06081F2242F03D00DBD32B /* SupportFiles */,
+				8A8C5A7F2242DA75004CBCDC /* AppDelegate.swift */,
+				0A48FAF72270F353001E385E /* ViewController.swift */,
+				8A8C5A862242DA76004CBCDC /* Assets.xcassets */,
+				8A8C5A882242DA76004CBCDC /* LaunchScreen.storyboard */,
+				8A8C5A8B2242DA76004CBCDC /* Info.plist */,
+				0A485E16226CF69B007E76FC /* Localizable.strings */,
+			);
+			path = edrive50;
+			sourceTree = "<group>";
+		};
+		8A8C5A932242DA76004CBCDC /* edrive50Tests */ = {
+			isa = PBXGroup;
+			children = (
+				8A8C5A942242DA76004CBCDC /* edrive50Tests.swift */,
+				8A8C5A962242DA76004CBCDC /* Info.plist */,
+			);
+			path = edrive50Tests;
+			sourceTree = "<group>";
+		};
+		8A8C5A9E2242DA76004CBCDC /* edrive50UITests */ = {
+			isa = PBXGroup;
+			children = (
+				8A8C5A9F2242DA76004CBCDC /* edrive50UITests.swift */,
+				8A8C5AA12242DA76004CBCDC /* Info.plist */,
+			);
+			path = edrive50UITests;
+			sourceTree = "<group>";
+		};
+		8A9A5104224C0CBA00624A20 /* BookRide */ = {
+			isa = PBXGroup;
+			children = (
+				8A9A510E224CFDA200624A20 /* Driver */,
+				8A9A510D224CFD6A00624A20 /* Rider */,
+			);
+			path = BookRide;
+			sourceTree = "<group>";
+		};
+		8A9A510D224CFD6A00624A20 /* Rider */ = {
+			isa = PBXGroup;
+			children = (
+				8A9A5105224C0D1B00624A20 /* MapAndSearchViewController.swift */,
+				8A9A5107224C0D3100624A20 /* PointAPointBViewController.swift */,
+				8A9A5109224C0D5900624A20 /* BookingViewController.swift */,
+				0AA687022257F70000DF2C35 /* RideSchedulingViewController.swift */,
+				0AA687042257F74000DF2C35 /* RideScheduleRequestViewController.swift */,
+				8A9A510B224C0D8F00624A20 /* SpecialRequestsViewController.swift */,
+				8A9A510F224D072000624A20 /* DriverListViewController.swift */,
+				8A9A5111224D0C3B00624A20 /* WaitingViewController.swift */,
+				8A9A5113224D0C5F00624A20 /* OnTheWayViewController.swift */,
+				8A355615226AF7820092A730 /* FeedbackViewController.swift */,
+				8A355617226B71C70092A730 /* DriverListTableViewCell.swift */,
+			);
+			path = Rider;
+			sourceTree = "<group>";
+		};
+		8A9A510E224CFDA200624A20 /* Driver */ = {
+			isa = PBXGroup;
+			children = (
+				8A060875224A89E300DBD32B /* ReceiveRequestViewController.swift */,
+				8A3228F222505C2900C3DB54 /* DrivingMapViewController.swift */,
+			);
+			path = Driver;
+			sourceTree = "<group>";
+		};
+		BF0CC03DF3372EBBD751BE4F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				941ACCED69E1583E6A0C1941 /* Pods-edrive50.debug.xcconfig */,
+				E51B620F83C6CBFB946D492A /* Pods-edrive50.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8A8C5A7B2242DA75004CBCDC /* edrive50 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A8C5AA42242DA76004CBCDC /* Build configuration list for PBXNativeTarget "edrive50" */;
+			buildPhases = (
+				51CAEA202DCF4CAEA54E99AF /* [CP] Check Pods Manifest.lock */,
+				8A8C5A782242DA75004CBCDC /* Sources */,
+				8A8C5A792242DA75004CBCDC /* Frameworks */,
+				8A8C5A7A2242DA75004CBCDC /* Resources */,
+				D56ADCDAEECE604A64787066 /* [CP] Copy Pods Resources */,
+				5F3D00AAA5950F9AF801F8C9 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = edrive50;
+			productName = edrive50;
+			productReference = 8A8C5A7C2242DA75004CBCDC /* edrive50.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8A8C5A8F2242DA76004CBCDC /* edrive50Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A8C5AA72242DA76004CBCDC /* Build configuration list for PBXNativeTarget "edrive50Tests" */;
+			buildPhases = (
+				8A8C5A8C2242DA76004CBCDC /* Sources */,
+				8A8C5A8D2242DA76004CBCDC /* Frameworks */,
+				8A8C5A8E2242DA76004CBCDC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8A8C5A922242DA76004CBCDC /* PBXTargetDependency */,
+			);
+			name = edrive50Tests;
+			productName = edrive50Tests;
+			productReference = 8A8C5A902242DA76004CBCDC /* edrive50Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		8A8C5A9A2242DA76004CBCDC /* edrive50UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A8C5AAA2242DA76004CBCDC /* Build configuration list for PBXNativeTarget "edrive50UITests" */;
+			buildPhases = (
+				8A8C5A972242DA76004CBCDC /* Sources */,
+				8A8C5A982242DA76004CBCDC /* Frameworks */,
+				8A8C5A992242DA76004CBCDC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8A8C5A9D2242DA76004CBCDC /* PBXTargetDependency */,
+			);
+			name = edrive50UITests;
+			productName = edrive50UITests;
+			productReference = 8A8C5A9B2242DA76004CBCDC /* edrive50UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8A8C5A742242DA75004CBCDC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "Suuba Magai";
+				TargetAttributes = {
+					8A8C5A7B2242DA75004CBCDC = {
+						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
+					};
+					8A8C5A8F2242DA76004CBCDC = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = 8A8C5A7B2242DA75004CBCDC;
+					};
+					8A8C5A9A2242DA76004CBCDC = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = 8A8C5A7B2242DA75004CBCDC;
+					};
+				};
+			};
+			buildConfigurationList = 8A8C5A772242DA75004CBCDC /* Build configuration list for PBXProject "edrive50" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"fr-CA",
+			);
+			mainGroup = 8A8C5A732242DA75004CBCDC;
+			productRefGroup = 8A8C5A7D2242DA75004CBCDC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8A8C5A7B2242DA75004CBCDC /* edrive50 */,
+				8A8C5A8F2242DA76004CBCDC /* edrive50Tests */,
+				8A8C5A9A2242DA76004CBCDC /* edrive50UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8A8C5A7A2242DA75004CBCDC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A8C5A8A2242DA76004CBCDC /* LaunchScreen.storyboard in Resources */,
+				0A485E14226CF69B007E76FC /* Localizable.strings in Resources */,
+				8A8C5A872242DA76004CBCDC /* Assets.xcassets in Resources */,
+				0A9E2035226043B7006B5867 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A8C5A8E2242DA76004CBCDC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A8C5A992242DA76004CBCDC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		51CAEA202DCF4CAEA54E99AF /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-edrive50-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5F3D00AAA5950F9AF801F8C9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-edrive50/Pods-edrive50-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/CollapsibleTableSectionViewController/CollapsibleTableSectionViewController.framework",
+				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CollapsibleTableSectionViewController.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RealmSwift.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-edrive50/Pods-edrive50-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D56ADCDAEECE604A64787066 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-edrive50/Pods-edrive50-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
+				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMaps.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GooglePlaces.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-edrive50/Pods-edrive50-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8A8C5A782242DA75004CBCDC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A3721092254D5F8007D8865 /* DriverAboutViewController.swift in Sources */,
+				0AE71AFA225BCD5A0010F9E9 /* DriverVehicleDetailsViewController.swift in Sources */,
+				8A06082A224325B500DBD32B /* LoginViewController.swift in Sources */,
+				8A355618226B71C70092A730 /* DriverListTableViewCell.swift in Sources */,
+				8A3721002254D5F8007D8865 /* DriverAccountsViewController.swift in Sources */,
+				8A3228F1224FFE0400C3DB54 /* Place.swift in Sources */,
+				8A3721052254D5F8007D8865 /* DriverEmailChangeViewController.swift in Sources */,
+				8A06086B22467E6400DBD32B /* DriverOptionsViewController.swift in Sources */,
+				8A3721022254D5F8007D8865 /* DriverAccecibilityOptionViewController.swift in Sources */,
+				8A06082122431DA400DBD32B /* RiderRegisterOptionsViewController.swift in Sources */,
+				8A8C5AB52242E219004CBCDC /* RiderInfo.swift in Sources */,
+				8A3721032254D5F8007D8865 /* DriverProfileViewController.swift in Sources */,
+				8A8C5AB12242E18A004CBCDC /* RiderRegisterAccountViewController.swift in Sources */,
+				8A355616226AF7820092A730 /* FeedbackViewController.swift in Sources */,
+				8A3721182254D610007D8865 /* RiderPaymentsViewController.swift in Sources */,
+				8A3721152254D610007D8865 /* RiderAccountViewController.swift in Sources */,
+				8A9A5102224BFC4000624A20 /* WaitForAuthorizationViewController.swift in Sources */,
+				8A9A5112224D0C3B00624A20 /* WaitingViewController.swift in Sources */,
+				8A37211A2254D610007D8865 /* RiderChangePasswordViewController.swift in Sources */,
+				8A0608272243253500DBD32B /* RiderRegisterPaymentViewController.swift in Sources */,
+				8A3721192254D610007D8865 /* RiderSpecialRequirementViewController.swift in Sources */,
+				8A3721082254D5F8007D8865 /* DriverChangePasswordViewController.swift in Sources */,
+				8A355614226AF5C30092A730 /* StarButton.swift in Sources */,
+				8A3228F322505C2900C3DB54 /* DrivingMapViewController.swift in Sources */,
+				0A485E22226D550F007E76FC /* RiderPaymentDetailsViewController.swift in Sources */,
+				8A06086D22467E8F00DBD32B /* DriverDescriptionViewController.swift in Sources */,
+				8A9A5108224C0D3100624A20 /* PointAPointBViewController.swift in Sources */,
+				8A3720FF2254D5F8007D8865 /* DriverSettingsViewController.swift in Sources */,
+				8A06086922467DA700DBD32B /* DriverRegisterAccountViewController.swift in Sources */,
+				8A37211E2254D610007D8865 /* RiderAboutViewController.swift in Sources */,
+				8A060876224A89E300DBD32B /* ReceiveRequestViewController.swift in Sources */,
+				8A37212122552FEE007D8865 /* Driver.swift in Sources */,
+				8A3721062254D5F8007D8865 /* DriverHistoryViewController.swift in Sources */,
+				8A9A510C224C0D8F00624A20 /* SpecialRequestsViewController.swift in Sources */,
+				8A3721012254D5F8007D8865 /* DriverHistoryDetailsViewController.swift in Sources */,
+				8A9A5114224D0C5F00624A20 /* OnTheWayViewController.swift in Sources */,
+				8A06086F22467F3600DBD32B /* VehicleRegistrationViewController.swift in Sources */,
+				8A0608712246888C00DBD32B /* DriverInfo.swift in Sources */,
+				8A9A5110224D072000624A20 /* DriverListViewController.swift in Sources */,
+				0A48FAF82270F353001E385E /* ViewController.swift in Sources */,
+				8A3721072254D5F8007D8865 /* DriverDetailsFeedabackViewController.swift in Sources */,
+				8A37211C2254D610007D8865 /* RiderProfilesViewController.swift in Sources */,
+				8A0608252243214300DBD32B /* RiderRegisterPayOptionsViewController.swift in Sources */,
+				0AA687032257F70000DF2C35 /* RideSchedulingViewController.swift in Sources */,
+				8A9A5106224C0D1B00624A20 /* MapAndSearchViewController.swift in Sources */,
+				8A37211B2254D610007D8865 /* RiderHistoryDetailsViewController.swift in Sources */,
+				8A3721162254D610007D8865 /* RiderChangeEmailViewController.swift in Sources */,
+				8A70404A2255CDED00CD5D26 /* Rider.swift in Sources */,
+				8A37211F2254D610007D8865 /* RiderDetailsFeedbackViewController.swift in Sources */,
+				8A3721172254D610007D8865 /* RiderHistoryViewController.swift in Sources */,
+				8A8C5A802242DA75004CBCDC /* AppDelegate.swift in Sources */,
+				8A06082322431EAF00DBD32B /* CheckmarkButton.swift in Sources */,
+				0A485E02226CA57F007E76FC /* RideInfo.swift in Sources */,
+				8A9A510A224C0D5900624A20 /* BookingViewController.swift in Sources */,
+				8A06082C224325D400DBD32B /* LoginSplashScreenViewController.swift in Sources */,
+				8A3721042254D5F8007D8865 /* DriverPaymentsDetailsViewController.swift in Sources */,
+				0AA687052257F74000DF2C35 /* RideScheduleRequestViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A8C5A8C2242DA76004CBCDC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A8C5AB22242E18A004CBCDC /* RiderRegisterAccountViewController.swift in Sources */,
+				8A8C5A952242DA76004CBCDC /* edrive50Tests.swift in Sources */,
+				8A8C5AB62242E219004CBCDC /* RiderInfo.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A8C5A972242DA76004CBCDC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A8C5AB32242E18A004CBCDC /* RiderRegisterAccountViewController.swift in Sources */,
+				8A8C5AA02242DA76004CBCDC /* edrive50UITests.swift in Sources */,
+				8A8C5AB72242E219004CBCDC /* RiderInfo.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8A8C5A922242DA76004CBCDC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8A8C5A7B2242DA75004CBCDC /* edrive50 */;
+			targetProxy = 8A8C5A912242DA76004CBCDC /* PBXContainerItemProxy */;
+		};
+		8A8C5A9D2242DA76004CBCDC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8A8C5A7B2242DA75004CBCDC /* edrive50 */;
+			targetProxy = 8A8C5A9C2242DA76004CBCDC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		0A485E16226CF69B007E76FC /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0A485E15226CF69B007E76FC /* en */,
+				0A485E20226D17F9007E76FC /* fr-CA */,
+			);
+			name = Localizable.strings;
+			path = EDrive50;
+			sourceTree = SOURCE_ROOT;
+		};
+		0A9E2037226043B7006B5867 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0A9E2036226043B7006B5867 /* Base */,
+				0A485E1D226D16E7007E76FC /* en */,
+				0A485E1F226D17D3007E76FC /* fr-CA */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8A8C5A882242DA76004CBCDC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8A8C5A892242DA76004CBCDC /* Base */,
+				0A4D5E422264EDF200C3532D /* fr-CA */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8A8C5AA22242DA76004CBCDC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8A8C5AA32242DA76004CBCDC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8A8C5AA52242DA76004CBCDC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 941ACCED69E1583E6A0C1941 /* Pods-edrive50.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = edrive50/edrive50.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V94L67MHG8;
+				INFOPLIST_FILE = edrive50/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lurnetun.sm.edrive50;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8A8C5AA62242DA76004CBCDC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E51B620F83C6CBFB946D492A /* Pods-edrive50.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = edrive50/edrive50.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V94L67MHG8;
+				INFOPLIST_FILE = edrive50/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lurnetun.sm.edrive50;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8A8C5AA82242DA76004CBCDC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V94L67MHG8;
+				INFOPLIST_FILE = edrive50Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lurnetun.sm.edrive50Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/edrive50.app/edrive50";
+			};
+			name = Debug;
+		};
+		8A8C5AA92242DA76004CBCDC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V94L67MHG8;
+				INFOPLIST_FILE = edrive50Tests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lurnetun.sm.edrive50Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/edrive50.app/edrive50";
+			};
+			name = Release;
+		};
+		8A8C5AAB2242DA76004CBCDC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V94L67MHG8;
+				INFOPLIST_FILE = edrive50UITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lurnetun.sm.edrive50UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = edrive50;
+			};
+			name = Debug;
+		};
+		8A8C5AAC2242DA76004CBCDC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V94L67MHG8;
+				INFOPLIST_FILE = edrive50UITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.lurnetun.sm.edrive50UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = edrive50;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8A8C5A772242DA75004CBCDC /* Build configuration list for PBXProject "edrive50" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A8C5AA22242DA76004CBCDC /* Debug */,
+				8A8C5AA32242DA76004CBCDC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A8C5AA42242DA76004CBCDC /* Build configuration list for PBXNativeTarget "edrive50" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A8C5AA52242DA76004CBCDC /* Debug */,
+				8A8C5AA62242DA76004CBCDC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A8C5AA72242DA76004CBCDC /* Build configuration list for PBXNativeTarget "edrive50Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A8C5AA82242DA76004CBCDC /* Debug */,
+				8A8C5AA92242DA76004CBCDC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A8C5AAA2242DA76004CBCDC /* Build configuration list for PBXNativeTarget "edrive50UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A8C5AAB2242DA76004CBCDC /* Debug */,
+				8A8C5AAC2242DA76004CBCDC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8A8C5A742242DA75004CBCDC /* Project object */;
+}

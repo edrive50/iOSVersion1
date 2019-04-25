@@ -1,0 +1,44 @@
+PODS:
+  - CollapsibleTableSectionViewController (1.0.1)
+  - GoogleMaps (3.0.3):
+    - GoogleMaps/Maps (= 3.0.3)
+  - GoogleMaps/Base (3.0.3)
+  - GoogleMaps/Maps (3.0.3):
+    - GoogleMaps/Base
+  - GooglePlaces (3.0.3):
+    - GoogleMaps/Base (= 3.0.3)
+  - Realm (3.14.0):
+    - Realm/Headers (= 3.14.0)
+  - Realm/Headers (3.14.0)
+  - RealmSwift (3.14.0):
+    - Realm (= 3.14.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - CollapsibleTableSectionViewController (~> 1.0.0)
+  - GoogleMaps
+  - GooglePlaces
+  - Realm
+  - RealmSwift
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CollapsibleTableSectionViewController
+    - GoogleMaps
+    - GooglePlaces
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  CollapsibleTableSectionViewController: c41694de812a1039c5f8581c934cf0fc38e4e871
+  GoogleMaps: fd5c9fa58871781b9fb94d4936f19c69fe60ce32
+  GooglePlaces: f09e76993c9c3ee4af8f4f7f535bb94d6aa3b649
+  Realm: 221b25919bb5a010a3c597d707f8df3492dcd93a
+  RealmSwift: 28f22dfa6a27b9a778cfb09471558b6afcf1022c
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 9e32e37083a07e3ce3188251bede62b00b849a16
+
+COCOAPODS: 1.6.1
